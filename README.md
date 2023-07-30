@@ -10,7 +10,7 @@ Screenshotting
 If CTRL-C copies what is being copied
 Dumps all passwords stored in Chrome
 Dumps Chrome History
-Sends Mail every 5 min with all the gathered data (The Keylogger deletes all alredy sent data)
+Sends Mail every 5 min with all the gathered data (The Keylogger deletes all already sent data)
 Moves itself to Startup
 Gets Windowname that is currently being used
 Hides Folder
